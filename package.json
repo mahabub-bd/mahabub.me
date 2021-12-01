@@ -1,0 +1,15 @@
+{
+  "name": "mahabub.me",
+  "version": "1.0.0",
+  "description": "My personal protfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "Mahabub Hossain",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
