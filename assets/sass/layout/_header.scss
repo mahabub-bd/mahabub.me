@@ -1,0 +1,10 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+header {
+  font-size: 20px;
+  color: chocolate;
+  @include responsive(phone) {
+    font-size: 10px;
+  }
+}
